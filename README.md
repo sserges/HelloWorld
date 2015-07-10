@@ -3,6 +3,21 @@
 Salut à tous bienvenue dans mon projet qui consiste à vous apprendre à dire Hello World.
 Dans différents langages informatiques.
 
+# Comment exécuter ces fichiers ou en savoir plus sur les langages présentés
+
+Vu ce qu’il est possible de faire avec un langage de programmation, il serait
+un peu trop frustrant de s’arrêter à l’exécution d’un fichier affichant 
+juste « Hello World ! ». Voici quelques liens pour aller plus loin.
+Vous voulez en savoir plus sur les différents langages et technologies contenus dans ces
+fichiers voici quelques liens qui peuvent vous aidez :
+[Pour en savoir plus sur le HTML5]()
+[Pour en savoir plus sur le PHP]()
+[Pour en savoir plus sur le SQL]()
+[Pour en savoir plus sur le C]()
+[Pour en savoir plus sur le Java]()
+[Pour en savoir plus sur Le Javascript]()
+[Pour en savoir plus sur Ruby]()
+
 License
 ---
 
