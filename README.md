@@ -10,13 +10,14 @@ un peu trop frustrant de s’arrêter à l’exécution d’un fichier affichant
 juste « Hello World ! ». Voici quelques liens pour aller plus loin.
 Vous voulez en savoir plus sur les différents langages et technologies contenus dans ces
 fichiers voici quelques liens qui peuvent vous aidez :
-[Pour en savoir plus sur le HTML5]()
-[Pour en savoir plus sur le PHP]()
-[Pour en savoir plus sur le SQL]()
-[Pour en savoir plus sur le C]()
-[Pour en savoir plus sur le Java]()
-[Pour en savoir plus sur Le Javascript]()
-[Pour en savoir plus sur Ruby]()
+[Pour en savoir plus sur le HTML5](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3)
+[Pour en savoir plus sur le PHP](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql)
+[Pour en savoir plus sur le SQL](https://openclassrooms.com/courses/administrez-vos-bases-de-donnees-avec-mysql)
+[Pour en savoir plus sur le C](https://openclassrooms.com/courses/apprenez-a-programmer-en-c)
+[Pour en savoir plus sur le C++](https://openclassrooms.com/courses/programmez-avec-le-langage-c)
+[Pour en savoir plus sur le Java](https://openclassrooms.com/courses/apprenez-a-programmer-en-java)
+[Pour en savoir plus sur Le JavaScript](https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript)
+[Pour en savoir plus sur Ruby](https://openclassrooms.com/courses/lancez-vous-dans-la-programmation-avec-ruby)
 
 License
 ---
